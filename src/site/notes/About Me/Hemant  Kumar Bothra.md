@@ -21,7 +21,7 @@ Welcome to my corner of the digital world! I'm **Hemant Bothra**, a passionate d
 - **Journey:** Began with a proof of concept that introduced me to the world of JavaScript, and I never looked back.  
 - **Expertise:**  
   - Started with vanilla JavaScript and expanded into frameworks like **Node.js** and **Vue.js**.  
-  - Currently exploring **TypeScript**, **Nuxt**, **Quasar**, **ES6**, and **Markdown**.  
+  - Currently exploring **TypeScript**, **Nuxt**, **ES6**, and **Markdown**. 
 
 ### **Python Developer**  
 - **Experience:** Novice, since 2023  
