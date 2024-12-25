@@ -123,4 +123,4 @@ I created an HTML using Bootstrap and select2, which can take the master key as 
 </div>
 ```
 
-Live app can be found at (Pass Gen)[/html/pass-gen]
+Live app can be found at [Pass Gen](/html/pass-gen)
