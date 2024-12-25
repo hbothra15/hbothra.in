@@ -559,6 +559,8 @@ module.exports = function (eleventyConfig) {
     },
   });
 
+  eleventyConfig.addPassthroughCopy({"src/html": "html"});
+
   userEleventySetup(eleventyConfig);
 
   return {
