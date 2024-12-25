@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/html/password-generator/","noteIcon":""}
+{"dg-publish":true,"permalink":"/html/password-generator/","tags":["hashing","bootstrap","HTML","JS"],"noteIcon":""}
 ---
 
 
