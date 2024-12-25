@@ -7,7 +7,7 @@ Inspired by tools like 1Password, which securely stores and manages passwords, I
 
 ---
 
-## The Concept
+## Concept
 
 The idea is to have a single, strong master password (passphrase) that, when combined with a unique identifier for each account (e.g., the website's domain), generates a complex password through hashing. This approach eliminates the need to store passwords, as they can be regenerated on the fly using the same inputs.
 
@@ -25,16 +25,16 @@ For a deeper dive, refer to the [Wikipedia article on Cryptographic Hash Functio
 
 ## Implementing the Password Generator
 
-To create a predictable and secure password generator, follow these steps:
+To create a predictable and secure password generator, we need:
 
-1. **Input Master Password:**  
-   I need an input box which can accept the master password (passphrase in the hashing world).
+1. **Passphrase:**  
+  We need a accept the master password (passphrase in the hashing world).
 
-2. **Combine with a Unique Identifier:**  
-   For each type of account, we need to create an Identifier, for time I have made them to be random numbers.
+2. **Unique Identifier:**  
+   For each type of account, we need to create an Identifier; we can select anything here, like a domain for each site or some random number. I am opting for a Random number
 
-3. **Apply a Hash Function:**  
-   Use a cryptographic hash function (e.g., SHA-256) to process the combined string. This will produce a fixed-length hash value.
+3. **Hash Function:**  
+   Use a cryptographic hash function (e.g., SHA-256) to process the combined string. This will produce a fixed-length hash value i.e. 256 characters long.
 
 4. **Format the Output:**  
    Convert the hash output into a suitable format for a password. This may involve encoding the hash and truncating it to the desired length. Ensure the final password includes a mix of uppercase and lowercase letters, numbers, and special characters to meet typical password complexity requirements.
