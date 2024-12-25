@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/voyage-of-discovery/","hideInGraph":true,"tags":["gardenEntry"],"noteIcon":""}
 ---
 
-# Welcome Aboard the **Tech Voyager** 🌊⚓
+# Welcome Aboard **Tech Voyager's <img src="/img/usr/hbothra.svg" style="width: 36px; height: 36px; margin:0; padding:0;float:none;" />**
 
 Embark on an exciting journey through the uncharted waters of technology. **Tech Voyager** is more than just a blog—it's a chronicle of exploration, discovery, and growth. Whether you're a seasoned coder or a curious learner, this is your portal to the ever-evolving seas of innovation.
 
