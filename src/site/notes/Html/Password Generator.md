@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/html/password-generator/","tags":["hashing","bootstrap","HTML","JS"],"noteIcon":""}
 ---
 
-
 Inspired by tools like 1Password, which securely stores and manages passwords, I embarked on a journey to develop a personal password generator. The goal was to create unique, complex passwords for different accounts without the need to remember each one individually. This article outlines the concept and implementation of such a tool using hashing techniques.
 
 ---
@@ -59,9 +58,12 @@ async function generateString2(key, identifier) {
 	
 	// Define character sets for password requirements
 	const specialChars = "@#$^_"; // Special characters to include
+
+	// Capital letters to include
+	const capitalLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	
-	const capitalLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"; // Capital letters to include
-	const allChars = "abcdefghijklmnopqrstuvwxyz0123456789"+ capitalLetters + specialChars; // All possible chars
+	// All possible chars
+	const allChars = "abcdefghijklmnopqrstuvwxyz0123456789"+ capitalLetters + specialChars;
 
 	// Select one special char and one capital letter using first 4 bytes of hash as indices	
 	const specialChar = specialChars[parseInt(hashedSeed.slice(0, 2), 16) % specialChars.length];
