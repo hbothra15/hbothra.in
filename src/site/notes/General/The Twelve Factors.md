@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general/the-twelve-factors/","tags":["design","12Factor","general","principals"],"noteIcon":""}
+{"dg-publish":true,"tags":["design","12Factor","general","principals"],"title":"12 Factors","og:title":"12 Factors","og:type":"article","og:article:author":"Hemant Bothra","og:article:tag":["design","general","principals"],"og:article:section":"Technology","permalink":"/general/the-twelve-factors/","dgPassFrontmatter":true}
 ---
 
 12 factor is a methodology for designing SaaS (Software as a Service). The idea of this methodology is to make code cloud agnostic, have an automated deployment way for faster onboarding and minimise the code difference between Prod and Dev.

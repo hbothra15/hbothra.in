@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/voyage-of-discovery/","hideInGraph":true,"tags":["gardenEntry"],"noteIcon":""}
+{"dg-home":true,"dg-publish":true,"dg-home-link":false,"dg-enable-search":false,"dg-show-local-graph":false,"dg-show-toc":false,"dg-show-backlinks":false,"dg-hide-in-graph":true,"permalink":"/voyage-of-discovery/","hideInGraph":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # Welcome Aboard **Tech Voyager's <img src="/img/usr/hbothra.svg" style="width: 36px; height: 36px; margin:0; padding:0;float:none;" />**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-me/hemant-bothra/","hideInGraph":true,"noteIcon":""}
+{"dg-publish":true,"dg-home-link":false,"dg-enable-search":false,"dg-show-local-graph":false,"dg-show-toc":false,"dg-show-backlinks":false,"dg-hide-in-graph":true,"permalink":"/about-me/hemant-bothra/","hideInGraph":true,"dgPassFrontmatter":true}
 ---
 
 Welcome to my corner of the digital world! I'm **Hemant Bothra**, a passionate developer, tech enthusiast, and lifelong learner. My journey in technology spans over a decade, and every step has been an adventure. Here's a glimpse into who I am and the skills I bring to the table.  

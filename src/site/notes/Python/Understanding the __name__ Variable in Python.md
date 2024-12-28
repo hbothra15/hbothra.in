@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python/understanding-the-name-variable-in-python/","tags":["__name__","python"],"noteIcon":""}
+{"dg-publish":true,"tags":["__name__","python"],"title":"Understanding the __name__ Variable","og:title":"Understanding the __name__ Variable","og:type":"article","og:article:author":"Hemant Bothra","og:article:tag":["__name__","python"],"og:article:section":"Technology","permalink":"/python/understanding-the-name-variable-in-python/","dgPassFrontmatter":true}
 ---
 
 While learning Python, I came across the `__name__` variable and its significance in script execution. Here's what I learned:
