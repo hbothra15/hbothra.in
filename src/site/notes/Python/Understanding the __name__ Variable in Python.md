@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"tags":["__name__","python"],"title":"Understanding the __name__ Variable","og:title":"Understanding the __name__ Variable","og:type":"article","og:article:author":"Hemant Bothra","og:article:tag":["__name__","python"],"og:article:section":"Technology","permalink":"/python/understanding-the-name-variable-in-python/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["__name__","Python"],"dg-metatags":{"description":"Understanding the flow of __name__ variable in Python","title":"Understanding the __name__ Variable","og:title":"Understanding the __name__ Variable","og:type":"article","og:article:author":"Hemant Bothra","og:article:tag":["__name__","Python"],"og:article:section":"Technology"},"permalink":"/python/understanding-the-name-variable-in-python/","metatags":{"description":"Understanding the flow of __name__ variable in Python","title":"Understanding the __name__ Variable","og:title":"Understanding the __name__ Variable","og:type":"article","og:article:author":"Hemant Bothra","og:article:tag":["__name__","Python"],"og:article:section":"Technology"},"dgPassFrontmatter":true}
 ---
 
-While learning Python, I came across the `__name__` variable and its significance in script execution. Here's what I learned:
+While learning Python, I discovered the `__name__` variable and its significance in script execution. Here's what I learned:
+
 ## What is `__name__`?
 
 `__name__` is a special variable in Python used internally by the interpreter. Its value depends on how the script is executed:
