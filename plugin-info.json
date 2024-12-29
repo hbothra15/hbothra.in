@@ -57,6 +57,7 @@
         "src/site/_includes/components/calloutScript.njk",
         "src/site/_includes/components/lucideIcons.njk",
         "src/site/_includes/components/timestamps.njk",
+        "src/site/_includes/components/comments.njk",
         "src/site/_data/meta.js",
         "src/site/_data/dynamics.js",
         "src/site/img/outgoing.svg",
